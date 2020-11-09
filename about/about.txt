@@ -1,0 +1,6 @@
+1. Node.js, MongoDB, and Express
+2. Bootstrap
+3. Markdown support
+4. Setting up an Express server
+5. Full stack web application
+6. Full CRUD functionality
